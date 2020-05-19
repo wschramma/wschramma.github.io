@@ -1,5 +1,6 @@
 # Site settings
 title: Portapapales
+tagline:     'Un blog de programación'
 description: 'El portapapeles de un desarrollador'
 url: ''
 baseurl: ''
