@@ -9,10 +9,10 @@ baseurl: ''
 author:
   name: 'Walter Schramm'
   email: wschramma@icloud.com
-  twitter_username: @wschramma
-  facebook_username: ws
+  twitter_username: wschramma
+  facebook_username: wschramma
   github_username:  wschramma
-  linkedin_username:  joshgerdes
+  linkedin_username:  wschramma
 
 defaults:
   -
