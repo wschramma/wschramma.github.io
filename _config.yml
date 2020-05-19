@@ -1,6 +1,6 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: Porta papales
+description: 'El portapapeles de un desarrollador'
 url: ''
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,11 +8,11 @@ baseurl: ''
 
 author:
   name: 'Walter Schramm'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  email: wschramma@icloud.com
+  twitter_username: @wschramma
+  #facebook_username: ws
+  github_username:  wschramma
+  #linkedin_username:  joshgerdes
 
 defaults:
   -
