@@ -7,6 +7,8 @@ categories: [sql]
 tags: [sql]
 ---
 
+Quise comenzar con este blog registrando algunas funciones ùtiles para trabajar con fechas dentro de Microsoft Sql Server
+
 1.- Para obtener el día de hoy
 
 ```sql
