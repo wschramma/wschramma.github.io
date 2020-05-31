@@ -3,7 +3,7 @@ layout: post
 author: wschramm
 title:  "Funciones útiles para fechas en MsSql"
 date:   2020-05-21 15:20:23
-categories: [sql]
+categories: [data]
 tags: [sql]
 ---
 
